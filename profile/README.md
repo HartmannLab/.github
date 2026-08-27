@@ -5,6 +5,5 @@ We're the [Systems Immunology and Single Cell Biology](https://www.dkfz.de/en/sy
 We are studying how metabolic interactions between T cells, macrophages, and tumor cells determine immune function and tumor progression. For that, we employ a novel proteomic imaging technology termed multiplexed ion beam imaging (MIBI) to address these questions. MIBI enables the simultaneous quantification of more than 40 proteins and their spatial localization directly in human tissues.
 
 # For lab members
-- Lab WIKI: https://github.com/HartmannLab/mibi_data_managment/wiki
 - Project board: https://github.com/orgs/HartmannLab/projects/5
 - Publication prep: https://github.com/HartmannLab/D260_publication_prep
