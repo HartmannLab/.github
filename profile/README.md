@@ -25,7 +25,6 @@ Our work spans wet-lab spatial proteomics and the computational methods needed t
 | [**MuVIcell**](https://github.com/HartmannLab/MuVIcell) | From cell-type stratified features to multicellular coordinated programs |
 | [**MIBI-Analysis_Hamburg_CRC_TMA_2024**](https://github.com/HartmannLab/MIBI-Analysis_Hamburg_CRC_TMA_2024) | Analysis pipeline for *"Robust multicellular programs dissect the complex tumor microenvironment and track disease progression in colorectal cancer"* ([preprint](https://arxiv.org/abs/2510.05083), [DOI](https://doi.org/10.5281/zenodo.17008987)) |
 | [**MIBI-Docker**](https://github.com/HartmannLab/MIBI-Docker) | Docker image bundling tools for MIBI image analysis |
-| [**GitWorkshop**](https://github.com/HartmannLab/GitWorkshop) | Git training materials used for onboarding lab members |
 
 ## For lab members
 
